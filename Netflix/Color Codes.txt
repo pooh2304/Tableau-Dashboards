@@ -1,0 +1,3 @@
+Bright Red: #E50914
+Dark Red: #B20710
+#B00710
