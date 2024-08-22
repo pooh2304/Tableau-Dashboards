@@ -1,0 +1,2 @@
+Worksheet Background Color - #19222d
+Radial Bar Chart Color - #00a8e1
