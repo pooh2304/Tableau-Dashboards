@@ -1,0 +1,2 @@
+Brown: #463020
+Beige: #f4f2e9
