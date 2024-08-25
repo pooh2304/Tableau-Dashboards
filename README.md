@@ -1,4 +1,4 @@
-# Tableau-Dashboards
+# Tableau Dashboards
 
 1. [Amazon Prime Video](https://public.tableau.com/views/AmazonPrimeVideo_17243277650520/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
