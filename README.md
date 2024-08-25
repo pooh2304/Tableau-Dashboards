@@ -15,3 +15,6 @@
 5. [Tripadvisor](https://public.tableau.com/views/Tripadvisor_17245702053060/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Tripadvisor/Dashboard.png)
+6. [IBM HR Analytics](https://public.tableau.com/views/IBMHRAnalytics_17245767535790/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/IBM%20HR%20Analytics/Dashboard.png)
