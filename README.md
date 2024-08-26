@@ -18,3 +18,6 @@
 6. [IBM HR Analytics](https://public.tableau.com/views/IBMHRAnalytics_17245767535790/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/IBM%20HR%20Analytics/Dashboard.png)
+7. [Airbnb NYC](https://public.tableau.com/views/AirbnbNYC_17246627290370/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Airbnb%20NYC/Dashboard.png)
