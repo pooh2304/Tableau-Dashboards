@@ -1,0 +1,4 @@
+Red - #FF5A5F
+Green - #00A699
+Orange - #FC642D
+Grey - #767676
