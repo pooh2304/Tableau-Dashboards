@@ -24,3 +24,6 @@
 8. [Amazon Sales in India](https://public.tableau.com/views/AmazonSalesinIndia_17247345729710/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Amazon%20Sales%20in%20India/Dashboard.png)
+9. [UEFA Champions League](https://public.tableau.com/views/UEFAChampionsLeague_17247614087840/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/UEFA%20Champions%20League/Dashboard.png)
