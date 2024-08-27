@@ -1,0 +1,6 @@
+Orange - #ff9900	
+Blue - #146eb4	
+Black - #000000	
+Grey - #232f3e	
+White - #f2f2f2	
+ 
