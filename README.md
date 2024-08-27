@@ -21,3 +21,6 @@
 7. [Airbnb NYC](https://public.tableau.com/views/AirbnbNYC_17246627290370/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Airbnb%20NYC/Dashboard.png)
+8. [Amazon Sales in India](https://public.tableau.com/views/AmazonSalesinIndia_17247345729710/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Amazon%20Sales%20in%20India/Dashboard.png)
