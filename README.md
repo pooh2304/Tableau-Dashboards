@@ -27,3 +27,6 @@
 9. [UEFA Champions League](https://public.tableau.com/views/UEFAChampionsLeague_17247614087840/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/UEFA%20Champions%20League/Dashboard.png)
+10. [FIFA World Cup Results 1930-2014](https://public.tableau.com/views/FIFAWorldCupResults1930-2014_17248522770270/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/FIFA%20World%20Cup%20Results%201930-2014/Dashboard.png)
