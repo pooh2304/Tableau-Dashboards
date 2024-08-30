@@ -30,3 +30,6 @@
 10. [FIFA World Cup Results 1930-2014](https://public.tableau.com/views/FIFAWorldCupResults1930-2014_17248522770270/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/FIFA%20World%20Cup%20Results%201930-2014/Dashboard.png)
+11. [Data Science Jobs](https://public.tableau.com/views/DataScienceJobs_17250478730780/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Data%20Science%20Jobs/Dashboard.png)
