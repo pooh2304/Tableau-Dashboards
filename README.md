@@ -33,3 +33,6 @@
 11. [Data Science Jobs](https://public.tableau.com/views/DataScienceJobs_17250478730780/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Data%20Science%20Jobs/Dashboard.png)
+12. [Healthcare - Heart Failure](https://public.tableau.com/views/Healthcare-HeartFailure_17252031790090/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Healthcare%20-%20Heart%20Failure/Dashboard.png)
