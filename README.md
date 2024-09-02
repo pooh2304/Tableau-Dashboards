@@ -36,9 +36,9 @@
 12. [Healthcare - Heart Failure](https://public.tableau.com/views/Healthcare-HeartFailure_17252031790090/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Healthcare%20-%20Heart%20Failure/Dashboard.png)
-12. [Video Game Sales](https://public.tableau.com/views/VideoGameSales_17252727427920/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+13. [Video Game Sales](https://public.tableau.com/views/VideoGameSales_17252727427920/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Video%20Game%20Sales/Dashboard.png)
-13. [Customer Personality Analysis](https://public.tableau.com/views/CustomerPersonalityAnalysis_17252989196210/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+14. [Customer Personality Analysis](https://public.tableau.com/views/CustomerPersonalityAnalysis_17252989196210/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Customer%20Personality%20Analysis/Dashboard.png)
