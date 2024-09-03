@@ -42,3 +42,6 @@
 14. [Customer Personality Analysis](https://public.tableau.com/views/CustomerPersonalityAnalysis_17252989196210/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Customer%20Personality%20Analysis/Dashboard.png)
+15. [Stock Market](https://public.tableau.com/views/StockMarket_17253574770210/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Stock%20Market/Dashboard.png)
