@@ -48,3 +48,6 @@
 16. [Earthquakes Magnitude (1900-2013)](https://public.tableau.com/views/EarthquakesMagnitude1900-2013/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Earthquakes%20Magnitude%20(1900-2013)/Dashboard.png)
+17. [Hollywood Most Profitable Stories)](https://public.tableau.com/views/HollywoodMostProfitableStories_17253827685870/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Hollywood%20Most%20Profitable%20Stories/Dashboard.png)
