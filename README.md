@@ -51,6 +51,6 @@
 17. [Hollywood Most Profitable Stories](https://public.tableau.com/views/HollywoodMostProfitableStories_17253827685870/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Hollywood%20Most%20Profitable%20Stories/Dashboard.png)
-17. [Friends - TV Series](https://public.tableau.com/views/Friends-TVSeries_17255397337740/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+18. [Friends - TV Series](https://public.tableau.com/views/Friends-TVSeries_17255397337740/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Friends%20-%20TV%20Series/Dashboard.png)
