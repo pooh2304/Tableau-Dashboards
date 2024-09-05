@@ -1,0 +1,2 @@
+Brown: #743a37
+Cream: #f8e7d8
