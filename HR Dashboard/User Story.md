@@ -23,7 +23,7 @@ The Demographics section should offer insights into the composition of the workf
 - Show the total number of employees within each education level.
 - Present the correlation between employees’s educational backgrounds and their performance ratings.
 
-Income
+### Income
 The income analysis section should focus on salary-related metrics, including:
 
 - Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
