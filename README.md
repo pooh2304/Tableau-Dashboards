@@ -57,3 +57,8 @@
 19. [Breaking Bad - TV Series](https://public.tableau.com/views/BreakingBad-TVSeries/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Breaking%20Bad%20-%20TV%20Series/Dashboard.png)
+
+20. [HR Dashboard](https://public.tableau.com/views/HRDashboard_17264075146510/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/HR%20Dashboard/HR%20_%20Summary.png)
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/HR%20Dashboard/HR%20_%20Details.png)
