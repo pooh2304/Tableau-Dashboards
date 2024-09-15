@@ -1,0 +1,9 @@
+Basic Colors:
+Grey - #777777
+White - #f5f5f5
+Grey - #dddddd
+
+Custom Colors:
+Green - #03c4a1
+Pink - #c52a87
+
