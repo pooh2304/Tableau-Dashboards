@@ -62,3 +62,8 @@
 
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/HR%20Dashboard/HR%20_%20Summary.png)
    ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/HR%20Dashboard/HR%20_%20Details.png)
+
+21. [Sales Performance](https://public.tableau.com/views/SalesPerformance_17269080332520/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Sales%20Performance/Sales%20Dashboard.png)
+   ![alt text](https://github.com/pooh2304/Tableau-Dashboards/blob/main/Sales%20Performance/Customer%20Dashboard.png)
