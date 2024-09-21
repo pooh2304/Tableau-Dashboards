@@ -1,0 +1,14 @@
+Basic Colors: 
+
+Black - #212121
+White - #cecece
+
+Primary Colors:
+
+Blue - #1da2d0
+Orange - #ff5500
+
+Navigation Colors:
+
+Background - #072a35
+Font - #24c6fc
